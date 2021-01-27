@@ -29,6 +29,7 @@ carpentry: "lc"
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
 curriculum: "OpenRefine"
 
+
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
 # https://datacarpentry.org/lessons/), change the
